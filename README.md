@@ -1,4 +1,4 @@
-Heart Disease Severity Classification
+#**Heart Disease Severity Classification**
 A machine learning project to predict heart disease severity levels using the Cleveland heart disease dataset. This project demonstrates multi-class classification using six different algorithms with comprehensive data exploration, preprocessing, and comparative model evaluation.
 
 Dataset Overview
