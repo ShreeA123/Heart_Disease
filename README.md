@@ -455,6 +455,9 @@ pip install pandas numpy scikit-learn xgboost matplotlib seaborn
 
 ✓ Highlighted class imbalance as primary limitation
 
+#Link to the collab file:
+https://colab.research.google.com/drive/1QuENyvNBKgyIbYIkk6AJWxcoF6wuMQJT?usp=sharing
+
 ✓ Provided actionable recommendations for improvement
 
 ---
